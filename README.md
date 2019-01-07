@@ -1,0 +1,2 @@
+# eocstestnet
+Eocs test network
