@@ -26,7 +26,6 @@ make install
 
 
 # EOS BP Information
-=====================
 | BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
 |---------|---------|-------------|------------|----------|--------------|
 | eossproducea | 39.108.228.174 | 9992 | 7772 | China | eocs.io | 
@@ -39,7 +38,6 @@ make install
 
 
 # EOCS BP Information
-=======================
 | BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
 |---------|---------|-------------|------------|----------|--------------|
 | eocsproducea | 39.108.228.174 | 9997 | 7777 | China | eocs.io | 
