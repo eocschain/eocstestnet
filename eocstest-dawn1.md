@@ -25,18 +25,35 @@ cd build
 make install
 
 
-# EOCS BP Information
+# EOS BP Information
+=====================
 | BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
 |---------|---------|-------------|------------|----------|--------------|
-| eocsproducea | eocs.io | 8888 | 9876 | China | eocs.io |
-| eocsproduceb | jungle.eosnewyork.io | 8888  | 9876 | Canada, Montreal | EOS New York |
-| Tortoise | 149.202.201.27 | 8888  | 9876 | France | EOSdac.io |
-| Wombat | pearls.capital | 8888  | 9876 | Russia, Moscow | pearls.capital |
-| Crow | 47.92.97.56 | 8888  | 9876 | China | EOS UIP |
-| Langurs | processing | ....  | .... | UK | EOSgreen.io |
-| Gorilla | processing | ....  | .... | UK | EOSnottingham.io |
-| Lizard | processing | ....  | .... | India | EOS India |
-| Cobra | processing | ....  | .... | China | CIGEOS |
+| eossproducea | 39.108.228.174 | 9992 | 7772 | China | eocs.io | 
+| eossproduceb | 39.108.228.174  | 9992  | 7772 | China | eocs.io |
+| .............|................|.......|.....|........|........|
+| .............|................|.......|.....|........|........|
+| .............|................|.......|.....|........|........|
+| eossproducew | 39.108.228.174  | 9992  | 7772 | China | eocs.io |
+| eossproducex | 39.108.228.174  | 9992  | 7772 | China | eocs.io |
+
+
+# EOCS BP Information
+=======================
+| BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
+|---------|---------|-------------|------------|----------|--------------|
+| eocsproducea | 39.108.228.174 | 9997 | 7777 | China | eocs.io | 
+| eocsproduceb | 39.108.228.174 | 9997 | 7777 | China | eocs.io |
+| .............|................|.......|.....|........|........|
+| .............|................|.......|.....|........|........|
+| .............|................|.......|.....|........|........|
+| eocsproducem | 39.108.228.174 | 9997 | 7777 | China | eocs.io |
+| eocsproducen | 39.108.228.174 | 9997 | 7777 | China | eocs.io |
+| eocsproduceo | 39.108.228.174 | 9998 | 7778 | China | eocs.io |
+| eocsproducep | 39.108.228.174 | 9998 | 7778 | China | eocs.io |
+| .............|................|.......|.....|........|........|
+| .............|................|.......|.....|........|........|
+| eocsproduceu | 39.108.228.174 | 9998 | 7778 | China | eocs.io |
 
 
 
