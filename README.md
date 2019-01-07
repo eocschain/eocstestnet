@@ -1,2 +1,0 @@
-# eocstestnet
-Eocs test network
