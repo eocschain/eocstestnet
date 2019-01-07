@@ -6,7 +6,6 @@ https://github.com/eocschain/eocs
 ===================================  
 
 EOS public test network: EOCS   
-Based on: SuperDawn-2018-03-18  
 by: <a target="_blank" href="http://eocs.io">eocs.io</a>  
 
 
